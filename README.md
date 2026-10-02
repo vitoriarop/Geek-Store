@@ -2,21 +2,7 @@
 
 Frontend responsivo construído a partir das seis telas do ZIP original. Mantém a identidade escura, os destaques roxos e o catálogo ilustrado fornecido.
 
-## Executar
 
-Requisitos: Node.js 22 e npm.
-
-```sh
-npm install
-npm run dev
-```
-
-Abra o endereço mostrado pelo Vite (normalmente http://127.0.0.1:5173).
-
-```sh
-npm test          # regras de carrinho, estoque, cupom, frete e CEP
-npm run build    # gera dist/
-npm run preview  # serve o build localmente
 ```
 
 ## Funcionalidades
