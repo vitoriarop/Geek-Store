@@ -1,0 +1,104 @@
+{
+  "hero": "./images/hero-geekstore.png",
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa Streetwear Tanjiro Hinokami Kagura",
+      "price": 11990,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCOtsE1dMm9EjpUv31Ml4e_90xtcmPKtY3N_XSN6xm-fEsH1SNelWnUvMvQA2P0akH06i3SOdXVf_joSccp6mO2wv2mJKehQSwrmvghVOVwex_ufOzyKpbo-v5RuKB2-6xQhF8V0LUKUrSTSDUPoCBX6cbQqWx4HVpehfYj1ITfuJTmMYU1BxMFtrPC5jSHlw1-JLNCAueD9AbXxd8Bm0_RcyBV8KQ8JLCnaopjzYXEiZLN5N8Zjv1E-A",
+      "category": "Roupas",
+      "universe": "Demon Slayer",
+      "stock": 12,
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Copo Térmico Gamer One Piece Jolly Roger LED",
+      "price": 13990,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAtZeaGEYuyOOJdc3jb0JJZ1hW7vzVZg7Xpu4fu6_kbbqFsj_36KaMzaMCCGXCY_Mlf8iDuM0iNpCzzf987u1_VzvVF6zjJnNhxEL7xaSGm9vUn5hyrHfhoyhsX9EcGv9HALccTKvmuyLNPsJzmabQV2A00WdEPo3MNv7_ETF--18LSJdTCqDXuwUdlh2YF03QmAdnr410lQzxcUqVPg5Uk3FRJlpOo1jLnUVma94psb_5EOfZl43q3ow",
+      "category": "Copos Térmicos",
+      "universe": "One Piece",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Teclado Mecânico RGB Naruto Akatsuki Custom",
+      "price": 42990,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCoYLJXqNFpQ3V-xEJiu9yyUY1AHb0YmhEyripiQ-TR2_OwZfxJsH_EnB8wPodME3-fyVdpwm4Bxg7PfsEPH9WevWK2e5_JW1FWt14vethRbvqjHmRrb1uQsAeUEe4pLwu4g1MFR_axd-tKej6Q7xxSUQ0F6ZLpA104fcfvDgc-u7cmUH7He2EqVSM67B3E3Cd_hra5A97Z6vvW7XIbaL0kqhOt5YiP4fF4EeJrUgreGAVn_WmDSaL1bA",
+      "category": "Teclados",
+      "universe": "Naruto",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Action Figure Goku Super Saiyajin Kamehameha",
+      "price": 49990,
+      "image": "./images/goku-kamehameha.png",
+      "category": "Action Figures",
+      "universe": "Dragon Ball Z",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Headset Gamer Wireless Ichigo Hollow Bankai RGB",
+      "price": 37990,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDYwhLkFyinWfB5KngsQ2XK-g-VM3e27wWIsK4BZrFxP10GBJDmv7fTriQQ8dBnNbDVnkkGeCzAkcqW9Du_V5DBc2JVeR0oQMDhUbiFZvE5Q1LfuF96T-V13to-SaL1mDDG_Vht_n-v141KDiYQxHgi36vHvraXVQOyck63NHU9hoycTFahPMxO0icM_7nV0l-TLyn_Tl4v6q7cuIg63fGR0IMGelP095Zw3eQxp7QSC9IOChoV8H6C2Q",
+      "category": "Headsets",
+      "universe": "Bleach",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Caneca Geek Cerâmica Naruto vs Sasuke Sharingan",
+      "price": 5490,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAZYriDAWuoDC7vliEp894ArvXwsKTaQ3Y64O-bL6d_qityxsQnFXJ8nheUrD-UcLBlThhsESXWCNvOkepTJoLIKhplfvLGUSdSJtruDB65i06XlOcNXVvZ320jspTrJrXpslpjC4McBSO8rLBd_g0YQCG_YbMxDs2-USZERrVhZVHvV5KbMAsdxH3Tun87Bkt12oV8PNfag8dOj3UbZ1GJGy7qxLICR6jAUKhieAXrtWYFrKSpCqh00g",
+      "category": "Canecas",
+      "universe": "Naruto",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Conjunto Quadros Decorativos Canvas Anime (Trio)",
+      "price": 14990,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAli2enyABEtG620TAXw5AMQhh1Q3Hck_yBaIjI5FAoPu7Y5Mo8p4dUwpp-lSk8uoDeG3p8Lc2TEqvMWT0rp-6beDOXIsBbr3ii3_N-1BdQ7Dleck1Jvj2BVIOoW8g7X50EAITPTt1-BnMzVgFbTbUzSwfdyAqZAXQU111a8kI7-5IweIV3bQTiWL7l7bXHBN3gZqpX4udnc9-mvUYesd5FqVlLXLa7MagErMSsDoF6W7LhcJBxM9QbMA",
+      "category": "Quadros",
+      "universe": "DBZ & Bleach",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Action Figure Luffy Gear 5 Sun God Nika Resina",
+      "price": 54990,
+      "image": "./images/luffy-gear-5.png",
+      "category": "Action Figures",
+      "universe": "One Piece",
+      "stock": 12,
+      "sizes": [
+        "Padrão"
+      ]
+    }
+  ]
+}
